@@ -1,8 +1,3 @@
-// new CountdownTimer({
-//     selector: '#timer-1',
-//     targetDate: new Date('Aug 31, 2021'),
-// });
-
 const refs = {
     clockface: document.querySelector('.js-clockface'),
 };
