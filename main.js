@@ -5,7 +5,7 @@ const refs = {
 class CountdownTimer {
     constructor({ onTick }) {
         this.onTick = onTick;
-        this.targetDate = new Date('Aug 31, 2021');
+        this.targetDate = new Date('Oct 31, 2021');
         this.interval = null;
     }
 
